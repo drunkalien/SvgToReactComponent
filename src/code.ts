@@ -1,4 +1,4 @@
-import { SvgReactConverter } from "./parser";
+import { SvgReactConverter } from "./svg-to-react-converter";
 
 figma.showUI(__html__, { width: 500, height: 500 });
 
